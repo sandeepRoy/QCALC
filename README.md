@@ -2,7 +2,7 @@
 
 May 2023
 
-[![QCalc YouTube video](https://carpecoin-media-211903.firebaseapp.com/youtube-preview.png)](https://youtu.be/E6gwNS2UT5E?si=o5O7SnJPgBUPEb9B)
+[![QCalc YouTube video]](https://youtu.be/E6gwNS2UT5E?si=o5O7SnJPgBUPEb9B)
 
 The objective of this project is to obtain basic skills in Java and OOPs principles by building a subset of features seen in calculators.
 
