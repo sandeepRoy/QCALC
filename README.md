@@ -2,9 +2,9 @@
 
 May 2023
 
-[![QCalc YouTube video]](https://youtu.be/E6gwNS2UT5E?si=o5O7SnJPgBUPEb9B)
+[![QCalc](https://crio-directus-assets.s3.ap-south-1.amazonaws.com/7104b205-e28c-417c-8ff4-bb7e43131a64.png)](https://www.youtube.com/watch?v=E6gwNS2UT5E&t=2s)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E6gwNS2UT5E?si=SvEMRyvntnsqdQVT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 
 The objective of this project is to obtain basic skills in Java and OOPs principles by building a subset of features seen in calculators.
 
